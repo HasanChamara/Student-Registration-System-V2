@@ -10,7 +10,7 @@ namespace StudentRegistrationSystem
     {
         public string MyConnection()
         {
-            string conn = "Server=localhost;Database=student;User ID=root;Password=Chamara.19566;SslMode=None;";
+            string conn = "Server=localhost;Database=student;User ID=root;Password=;SslMode=None;";
             return conn;
         }
     }
